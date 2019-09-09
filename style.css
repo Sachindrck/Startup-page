@@ -1,0 +1,21 @@
+body{
+	background-image: url(header.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1 {
+	text-align: center;
+	color: white;
+	font-family: 'Courgette', cursive;
+	font-family: 'Charm', cursive;
+	margin-top: 310px;
+	margin-left: 150px;
+	position: relative;
+}
+.btn-lg{
+	background-color: #4CAF50;
+	margin-left: 620px;
+	margin-top: 180px;
+	border-radius: 12px;
+	position: absolute;
+}
